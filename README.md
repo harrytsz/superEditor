@@ -10,7 +10,7 @@
 	<em>superEditor is a kind of Auto line feed.</em>
 </p>
 <p align="center">
-	<img src="https://ae01.alicdn.com/kf/H085d2afdc83c4762a24898d639838060d.jpg" alt="LOGO" width="300" height="300">
+	<img src="https://ae01.alicdn.com/kf/H085d2afdc83c4762a24898d639838060d.jpg" alt="LOGO" width="310" height="300">
 	<p align="center">
 		<em>既然选择远方，便只顾风雨兼程.</em>
 		<p align="right">
