@@ -8,11 +8,9 @@
 <div>
 <p align="left">
 	<em>superEditor is a kind of Auto line feed.</em>
-	<br>
-	<em>The main areas involved are: computer science, machine learning, deep learning and other artificial intelligence.</em>
 </p>
 <p align="center">
-	<img src="./Images/LOGO.jpg" alt="LOGO" width="250" height="300">
+	<img src="https://ae01.alicdn.com/kf/H085d2afdc83c4762a24898d639838060d.jpg" alt="LOGO" width="250" height="300">
 	<p align="center">
 		<em>既然选择远方，便只顾风雨兼程.</em>
 		<p align="right">
