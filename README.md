@@ -1,0 +1,2 @@
+# superEditor
+auto line feed
